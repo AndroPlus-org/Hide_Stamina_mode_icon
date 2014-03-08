@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+gen/com/wedy/semcphone2/BuildConfig.java
+gen/com/wedy/semcphone2/R.java
+XposedBridgeApi_2.1.jar
